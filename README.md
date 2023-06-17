@@ -1,11 +1,11 @@
-About r-xmisc
-=============
+About r-xmisc-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xmisc-feedstock/blob/main/LICENSE.txt)
 
 Home: http://CRAN.R-project.org/package=Xmisc
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xmisc-feedstock/blob/main/LICENSE.txt)
 
 Summary: This is Xiaobei's miscellaneous classes and functions useful when developing R packages, particularly for OOP using R Reference Class.
 
